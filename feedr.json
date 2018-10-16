@@ -1,0 +1,7 @@
+{
+  "apps": [{
+    "name": "feedr",
+    "script": "bin/www",
+    "cron_restart": "0 * * * *"
+  }]
+}
